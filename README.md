@@ -1,2 +1,2 @@
 # BDestroy
-Destructor automático s través de Binarios
+Destructor automático a través de Binarios
