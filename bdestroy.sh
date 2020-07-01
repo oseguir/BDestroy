@@ -1,4 +1,5 @@
 clear
+sleep 3
 echo '
 
      _                ___       _.--.
@@ -13,6 +14,7 @@ echo '
 $>Welcome to PDestructor :) 
 
 '
+sleep 2
 echo '[ X ] Ingrese el número de tlf al que enviarle el binario...: 
 
 '
