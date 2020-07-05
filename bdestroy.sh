@@ -43,7 +43,7 @@ echo '[ 5 ]〖乃ѺѺᎷ〗
 '
 read -p 'C:\ ' bin
 echo  ' ' 
-case bin in
+case $bin in
 1)
 	echo 'Preparando binario Destroyer...'
 	;;
